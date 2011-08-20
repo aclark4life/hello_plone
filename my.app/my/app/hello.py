@@ -3,6 +3,9 @@ from zope.publisher.browser import BrowserPage
 
 
 class Hello(BrowserPage):
+    """
+    Wire up some goo
+    """
 
     template = ViewPageTemplateFile('hello.pt')
 
