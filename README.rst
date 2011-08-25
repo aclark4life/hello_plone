@@ -13,12 +13,8 @@ You can run "hello plone" like so::
 
     $ git clone git://github.com/aclark4life/hello_plone.git
     $ cd hello_plone
-    $ virtualenv -p python2.6 .
-    $ python bootstrap.py -d
+    $ python2.6 bootstrap.py -d
     $ bin/buildout
     $ bin/plone fg
 
 Now open http://localhost:8080/Plone/hello
-
-This will use the system installation of Python 2.6. If you want to use a local
-installation of Python, specify it in the `virtualenv` call.
