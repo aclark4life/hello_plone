@@ -13,7 +13,7 @@ You can run "hello plone" like so::
 
     $ git clone git://github.com/aclark4life/hello_plone.git
     $ cd hello_plone
-    $ python2.6 bootstrap.py -d
+    $ python2.7 bootstrap.py -d
     $ bin/buildout
     $ bin/plone fg
 
