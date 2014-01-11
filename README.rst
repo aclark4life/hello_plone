@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This is a Plone “Hello, World!” style tutorial/application for Python developers. See: http://blog.aclark.net/2011/08/20/hello-plone/ for more.
+This is a Plone “Hello, World!” style tutorial/application for Python programmers. See: http://blog.aclark.net/2011/08/20/hello-plone/ for more.
 
 Installation
 ------------
