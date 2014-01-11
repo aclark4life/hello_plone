@@ -3,6 +3,6 @@ from setuptools import setup
 
 
 setup(
-    name='hello_plone',
+    name='my.app',
     packages=find_packages(),
 )
